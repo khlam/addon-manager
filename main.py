@@ -6,6 +6,7 @@ import shutil
 import tempfile
 import SiteHandler
 import packages.requests as requests
+import argparse
 
 def confirmExit():
     input('\nPress the Enter key to exit')
@@ -163,5 +164,29 @@ def main():
     return
 
 if __name__ == "__main__":
-    # execute only if run as a script
-    main()
+    parser = argparse.ArgumentParser(description='World of Addons - An open source World of Warcraft addon manager')
+
+    # python arg.py -l url1 url2 url3
+    parser.add_argument('-l','--list', nargs='+', required=True, help='<Required> Specifies addon URL list. ')
+    
+    # python arg.py -l url1 url2 url3 -i
+    parser.add_argument('-i', '--install', action='store_true', help='<Flag> If set script will update or install all specified addons.')
+
+    # python arg.py -l url1 url2 url3 --uninstall
+    parser.add_argument('--uninstall', action='store_true', help='<Flag> If set script will uninstall all specified addons.')
+
+    # python arg.py -l url1 url2 url3 -c
+    parser.add_argument('-c', '--check', action='store_true', help='<Flag> If set script will check if update is available for specified addon.')
+
+    args = parser.parse_args()
+
+    if (args.check == True):
+        print("Checking the following addons for updates:\n\t{}".format(args.list))
+
+    if (args.install == True and args.uninstall == False):
+        print("Updating/Installing the following addons:\n\t{}".format(args.list))
+
+    if (args.install == False and args.uninstall == True):
+        print("Uninstalling the following addons:\n\t{}".format(args.list))
+
+#    main()
