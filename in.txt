@@ -14,7 +14,7 @@ https://www.curseforge.com/wow/addons/announce-interrupts
 https://www.curseforge.com/wow/addons/pawn
 https://www.curseforge.com/wow/addons/auctionator
 https://www.curseforge.com/wow/addons/world-quests-list
-ttps://www.curseforge.com/wow/addons/nugie-combo-bar
+https://www.curseforge.com/wow/addons/nugie-combo-bar
 https://www.curseforge.com/wow/addons/flyplatebuffs
 https://www.curseforge.com/wow/addons/omni-cc
 https://www.curseforge.com/wow/addons/maxdps-rotation-helper
