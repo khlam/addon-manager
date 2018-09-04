@@ -1,0 +1,84 @@
+[https://www.curseforge.com/wow/addons/deadly-boss-mods]
+version = 8.0.6
+folders = DBM-Azeroth-BfA,DBM-Brawlers,DBM-Core,DBM-DefaultSkin,DBM-DMF,DBM-GUI,DBM-Party-BfA,DBM-StatusBarTimers,DBM-Uldir,DBM-WorldEvents
+
+[https://www.curseforge.com/wow/addons/Skada]
+version = 1.7.5
+folders = Skada
+
+[https://www.curseforge.com/wow/addons/bagnon]
+version = 8.0.3
+folders = Bagnon,Bagnon_Config,Bagnon_GuildBank,Bagnon_VoidStorage,BagBrother
+
+[https://www.curseforge.com/wow/addons/shadowed-unit-frames]
+version = v4.2.1
+folders = ShadowedUF_Options,ShadowedUnitFrames
+
+[https://www.curseforge.com/wow/addons/garrisoncommander]
+version = 3.0.0
+folders = GarrisonCommander-Broker,GarrisonCommander
+
+[https://www.curseforge.com/wow/addons/leatrix-plus]
+version = 8.0.11
+folders = Leatrix_Plus
+
+[https://www.curseforge.com/wow/addons/gse-gnome-sequencer-enhanced-advanced-macros]
+version = GSE_2.3.09
+folders = GSE,GSE_GUI,GSE_LDB
+
+[https://www.curseforge.com/wow/addons/garrison-mission-manager]
+version = v58
+folders = GarrisonMissionManager
+
+[https://www.curseforge.com/wow/addons/bartender4]
+version = 4.8.1
+folders = Bartender4
+
+[https://www.curseforge.com/wow/addons/simulationcraft]
+version = v1.10.6
+folders = Simulationcraft
+
+[https://www.curseforge.com/wow/addons/quartz]
+version = 3.4.0
+folders = Quartz
+
+[https://www.curseforge.com/wow/addons/maxcam]
+version = v2.2.0
+folders = MaxCam
+
+[https://www.curseforge.com/wow/addons/announce-interrupts]
+version = v1.6k
+folders = AnnounceInterrupts
+
+[https://www.curseforge.com/wow/addons/pawn]
+version = 2.2.27
+folders = Pawn
+
+[https://www.curseforge.com/wow/addons/auctionator]
+version = Auctionator 5.0.5
+folders = Auctionator
+
+[https://www.curseforge.com/wow/addons/world-quests-list]
+version = World Quests List v.7.9
+folders = WorldQuestsList
+
+[https://www.curseforge.com/wow/addons/flyplatebuffs]
+version = 8.0.1.06
+folders = flyPlateBuffs
+
+[https://www.curseforge.com/wow/addons/omni-cc]
+version = 8.0.2-Beta1
+folders = OmniCC,OmniCC_Config
+
+[https://www.curseforge.com/wow/addons/maxdps-rotation-helper]
+version = v8.0.7
+folders = MaxDps
+
+[https://www.curseforge.com/wow/addons/maxdps-paladin]
+version = v8.0.2
+folders = MaxDps_Paladin
+
+[https://www.curseforge.com/wow/addons/plater-nameplates]
+version = v8.0.1.117
+folders = Plater
+
